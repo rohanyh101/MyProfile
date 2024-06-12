@@ -32,12 +32,12 @@
 <p align="left">
 <a href="https://twitter.com/rohanyh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohanyh101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohanyh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanyh101" height="30" width="40" /></a>
-<a href="https://fb.com/rohanyh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohanyh101" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/rohanyh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohanyh101" height="30" width="40" /></a> -->
 <a href="https://instagram.com/rohanyh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohanyh101" height="30" width="40" /></a>
-<a href="https://medium.com/@rohanyh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohanyh101" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@rohanyh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohanyh101" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/c/rohanyh101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rohanyh101" height="30" width="40" /></a>
 </p>
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -73,35 +73,9 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rohanyh101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rohanyh101" /></a><a href="https://ko-fi.com/rohanyh101"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rohanyh101" /></a></p><br><be>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanyh101&show_icons=true&locale=en&layout=compact" alt="rohanyh101" /></p>
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanyh101&show_icons=true&locale=en" alt="rohanyh101" /></p>
 -->
 
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is rohanyh</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
 <h2 align="left">My Proficiency include,</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
@@ -120,11 +94,11 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
    <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="10" />
@@ -137,6 +111,9 @@
   <img width="10" />
   
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  <img width="10" />
+
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
   <img width="10" />
   
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
@@ -168,9 +145,18 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
-  
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rohanyh101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rohanyh101" /></a><a href="https://ko-fi.com/rohanyh101"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rohanyh101" /></a></p><br><be>
+
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanyh101&show_icons=true&locale=en&layout=compact" alt="rohanyh101" /></p>
+-->
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanyh101&show_icons=true&locale=en" alt="rohanyh101" /></p>
+-->
+
 
