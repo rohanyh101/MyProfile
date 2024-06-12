@@ -1,23 +1,32 @@
 <h1 align="center">Hi 👋, I'm rohanyh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanyh101&label=Profile%20views&color=0e75b6&style=flat" alt="rohanyh101" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rohanyh101&label=Profile%20views&color=0e75b6&style=flat" alt="rohanyh101" />
+</p>
 
-<!--<p align="left"> <a href="https://twitter.com/rohanyh101" target="blank"><img src="https://img.shields.io/twitter/follow/rohanyh101?logo=twitter&style=for-the-badge" alt="rohanyh101" /></a> </p>
+<!--
+<p align="left">
+  <a href="https://twitter.com/rohanyh101" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/rohanyh101?logo=twitter&style=for-the-badge" alt="rohanyh101" />
+  </a>
+</p>
 -->
-- 🌱 I’m currently learning **promethies, graphana**
 
-- 👨‍💻 All of my projects are available at [rohanyh101.dev](rohanyh101.dev)
+<p align="left">
+  - 🌱 I’m currently learning <strong>Prometheus, Grafana</strong><br>
+  - 👨‍💻 All of my projects are available at <a href="https://rohanyh101.dev" target="_blank">rohanyh101.dev</a><br>
+  - 📝 I regularly write articles on <a href="https://rohanyh101.dev/blogs" target="_blank">rohanyh101.dev/blogs</a><br>
+  - 💬 Ask me about <strong>something !!!</strong><br>
+  - 📫 How to reach me: <strong>rohan@gmail.com</strong><br>
+  - 📄 Know about my experiences: <a href="https://rohanyh101.dev/resume" target="_blank">rohanyh101.dev/resume</a><br>
+  - ⚡ Fun fact: <strong>I am not even graduated</strong>
+</p>
 
-- 📝 I regularly write articles on [rohanyh101.dev/blogs](rohanyh101.dev/blogs)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="Snake animation" />
+</p>
 
-- 💬 Ask me about **something !!!**
-
-- 📫 How to reach me **rohan@gmail.com**
-
-- 📄 Know about my experiences [rohanyh101.dev/resume](rohanyh101.dev/resume)
-
-- ⚡ Fun fact **i am not even graduated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
