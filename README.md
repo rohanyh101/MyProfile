@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm rohanyh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohanyh101&label=Profile%20views&color=0e75b6&style=flat" alt="rohanyh101" />
@@ -14,15 +14,7 @@
 </p>
 -->
 
-<p align="left">
-  - 🌱 I’m currently learning <strong>Prometheus, Grafana</strong><br>
-  - 👨‍💻 All of my projects are available at <a href="https://rohanyh101.dev" target="_blank">rohanyh101.dev</a><br>
-  - 📝 I regularly write articles on <a href="https://rohanyh101.dev/blogs" target="_blank">rohanyh101.dev/blogs</a><br>
-  - 💬 Ask me about <strong>something !!!</strong><br>
-  - 📫 How to reach me: <strong>rohan@gmail.com</strong><br>
-  - 📄 Know about my experiences: <a href="https://rohanyh101.dev/resume" target="_blank">rohanyh101.dev/resume</a><br>
-  - ⚡ Fun fact: <strong>I am not even graduated</strong>
-</p>
+🌱 I’m currently learning **Prometheus, Grafana**, 👨‍💻 All of my projects are available at <a href="https://rohanyh101.dev" target="_blank">rohanyh101.dev</a>, 📝 I regularly write articles on <a href="https://rohanyh101.dev/blogs" target="_blank">rohanyh101.dev/blogs</a>, 💬 Ask me about **something !!!**, 📫 How to reach me: **rohan@gmail.com**, 📄 Know about my experiences: <a href="https://rohanyh101.dev/resume" target="_blank">rohanyh101.dev/resume</a>, ⚡ Fun fact: **I am not even graduated**
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="Snake animation" />
@@ -76,9 +68,11 @@
 </p>
 -->
 
-<h2 align="left">My Proficiency include,</h2>
+<h2 align="left">My Proficiency In,</h2>
 
 <div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
@@ -108,6 +102,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="10" />
 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img width="10" />
+
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   <img width="10" />
 
@@ -115,6 +112,9 @@
   <img width="10" />
 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
+  <img width="10" />
+
+  <img src="https://raw.githubusercontent.com/docker-library/docs/ad703934a62fabf54452755c8486698ff6fc5cc2/nats/logo.png" alt="Nats" width="40" height="40"/>
   <img width="10" />
   
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
@@ -153,7 +153,9 @@
 ###
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rohanyh101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rohanyh101" /></a><a href="https://ko-fi.com/rohanyh101"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rohanyh101" /></a></p><br><be>
+<p><a href="https://www.buymeacoffee.com/rohanyh101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rohanyh101" /></a>
+<!--   <a href="https://ko-fi.com/rohanyh101"> <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rohanyh101" /></a> -->
+</p><br><be>
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanyh101&show_icons=true&locale=en&layout=compact" alt="rohanyh101" /></p>
 -->
