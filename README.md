@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm rohanyh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -109,8 +110,8 @@
 
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
   <img width="10" />
-  
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+
+  <img src="https://devicon-website.vercel.app/api/apachekafka/original.svg?color=%23FFFFFF" alt="kafka" width="40" height="40" />
   <img width="10" />
 
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
@@ -158,5 +159,4 @@
 -->
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohanyh101&show_icons=true&locale=en" alt="rohanyh101" /></p>
 -->
-
-
+          
