@@ -73,6 +73,8 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img width="10" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Cloudflare_Logo.png" alt="cloudflare" width="40" height="40"/>
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" alt="cplusplus logo"  />
@@ -135,13 +137,22 @@
   <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="50" width="50" mt="20" alt="go logo"  />
   <img width="10" />
   <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="40" alt="rust logo"  />
   <img width="10" />
+
+  <img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" height="40" width="40" alt="bun logo"  />
+  <img width="10" />
+
+  <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" height="40" width="40" alt="rust logo"  />
+  <img width="10" />
+  
   <img src="https://github.com/rohanyh101/MyProfile/assets/120084118/7e88a969-a805-4a5d-9eac-69438071cfaf" alt="docker" width="45" height="45"/>
   <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="37" height="37"/>
+  <img width="10" />
+  <img src="https://grpc.io/img/logos/grpc-logo.png" height="40" alt="grpc" style="margin-top: 20px;" />
 </div>
 
 ###
