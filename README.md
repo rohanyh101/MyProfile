@@ -3,11 +3,11 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
+
+<!--
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohanyh101&label=Profile%20views&color=0e75b6&style=flat" alt="rohanyh101" />
 </p>
-
-<!--
 <p align="left">
   <a href="https://twitter.com/rohanyh101" target="_blank">
     <img src="https://img.shields.io/twitter/follow/rohanyh101?logo=twitter&style=for-the-badge" alt="rohanyh101" />
@@ -16,21 +16,23 @@
 -->
 
 <p align="center">
+    <a href="https://github.com/rohanyh101/rohanyh101"><img src="https://komarev.com/ghpvc/?username=rohanyh101&abbreviated=true&label=Profile%20views&color=0e75b6&style=flat"></a>
     <a href="https://github.com/rohanyh101/rohanyh101"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/rohanyh101/rohanyh101/graphs/contributors"><img src="https://img.shields.io/github/contributors/rohanyh101/rohanyh101?color=blue"></a>
-    <a href="https://github.com/rohanyh101/rohanyh101/stargazers"><img src="https://img.shields.io/github/stars/rohanyh101/rohanyh101.svg?logo=github"></a>
+    <a href="https://github.com/rohanyh101/rohanyh101/"><img src="https://img.shields.io/github/contributors/rohanyh101/rohanyh101?color=blue"></a>
+    <a href="https://github.com/rohanyh101/rohanyh101/"><img src="https://img.shields.io/github/stars/rohanyh101/rohanyh101.svg?logo=github"></a>
     <a href="https://github.com/rohanyh101/rohanyh101/network/members"><img src="https://img.shields.io/github/forks/rohanyh101/rohanyh101.svg?color=blue&logo=github"></a>
-    <img src="https://komarev.com/ghpvc/?rohanyh101&style=flat" alt="visitors"/>   
+    <a href="https://github.com/rohanyh101/rohanyh101"><img src="https://visitor-badge.lithub.cc/badge?page_id=rohanyh101.MyREADME.MD"></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/296/2968.gif"/>
 
 - 🔭 I’m currently working on **E-commerce App**
-- 🤝 I’m looking to collaborate with like-minded software developers on various projects in interest on Microservices...
-- 🌱 I’m currently learning **gRPC, Prometheus, Grafana**; 
+- 🤝 Like collaborating with like-minded software developers on various
+      </br> projects in interest on Microservices and Scaling
+- 🌱 I’m currently learning **gRPC, Prometheus, Grafana**
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/rohanyh101)
 - 💬 Ask me about anything tech related, I am happy to help;
-- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pabath-induwara/), Email: ```rohanyh101@gmail.com```
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rohan-honnakatti-040b03241/), Email: ```rohanyh101@gmail.com```
 - 📚 When I'm not working, I listen to podcasts and play cricket.
 
 
