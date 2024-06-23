@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm rohanyh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohanyh101&label=Profile%20views&color=0e75b6&style=flat" alt="rohanyh101" />
 </p>
@@ -14,12 +15,28 @@
 </p>
 -->
 
-🌱 I’m currently learning **Prometheus, Grafana**, 👨‍💻 All of my projects are available at <a href="https://rohanyh101.dev" target="_blank">rohanyh101.dev</a>, 📝 I regularly write articles on <a href="https://rohanyh101.dev/blogs" target="_blank">rohanyh101.dev/blogs</a>, 💬 Ask me about **something !!!**, 📫 How to reach me: **rohan@gmail.com**, 📄 Know about my experiences: <a href="https://rohanyh101.dev/resume" target="_blank">rohanyh101.dev/resume</a>, ⚡ Fun fact: **I am not even graduated**
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="Snake animation" />
+    <a href="https://github.com/rohanyh101/rohanyh101"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/rohanyh101/rohanyh101/graphs/contributors"><img src="https://img.shields.io/github/contributors/rohanyh101/rohanyh101?color=blue"></a>
+    <a href="https://github.com/rohanyh101/rohanyh101/stargazers"><img src="https://img.shields.io/github/stars/rohanyh101/rohanyh101.svg?logo=github"></a>
+    <a href="https://github.com/rohanyh101/rohanyh101/network/members"><img src="https://img.shields.io/github/forks/rohanyh101/rohanyh101.svg?color=blue&logo=github"></a>
+    <img src="https://komarev.com/ghpvc/?rohanyh101&style=flat" alt="visitors"/>   
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/296/2968.gif"/>
+
+- 🔭 I’m currently working on **E-commerce App**
+- 🤝 I’m looking to collaborate with like-minded software developers on various projects in interest on Microservices...
+- 🌱 I’m currently learning **gRPC, Prometheus, Grafana**; 
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/rohanyh101)
+- 💬 Ask me about anything tech related, I am happy to help;
+- 📫 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/pabath-induwara/), Email: ```rohanyh101@gmail.com```
+- 📚 When I'm not working, I listen to podcasts and play cricket.
+
+
+<p align="center">
+<img align="center" src="https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif" alt="duck animation" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
