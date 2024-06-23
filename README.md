@@ -104,6 +104,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="postgresql logo"  />
   <img width="10" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
+  <img width="10" />
+  
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  <img width="10" />
+
+
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img width="10" />
 
@@ -119,9 +126,6 @@
   <img src="https://raw.githubusercontent.com/docker-library/docs/ad703934a62fabf54452755c8486698ff6fc5cc2/nats/logo.png" alt="Nats" width="40" height="40"/>
   <img width="10" />
   
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  <img width="10" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
   <img width="10" />
 
@@ -131,8 +135,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="10" />
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo"  />
-  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
@@ -145,8 +147,11 @@
   <img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" height="40" width="40" alt="bun logo"  />
   <img width="10" />
 
-  <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" height="40" width="40" alt="rust logo"  />
+  <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" height="40" width="40" alt="hono logo"  />
   <img width="10" />
+
+<img src="https://github.com/rohanyh101/MyREADME.MD/assets/120084118/4d182b3e-4f86-4362-b5cf-a34ae4d3815e" height="37" width="40" alt="cfw logo"  />
+<img width="10" />  
   
   <img src="https://github.com/rohanyh101/MyProfile/assets/120084118/7e88a969-a805-4a5d-9eac-69438071cfaf" alt="docker" width="45" height="45"/>
   <img width="10" />
