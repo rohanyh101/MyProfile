@@ -24,7 +24,7 @@
     <a href="https://github.com/rohanyh101/rohanyh101"><img src="https://visitor-badge.lithub.cc/badge?page_id=rohanyh101.MyREADME.MD"></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/296/2968.gif"/>
+<img align="right" alt="Coding" width="370" src="https://giffiles.alphacoders.com/296/2968.gif"/>
 
 - 🔭 I’m currently working on **E-commerce App**
 - 🤝 Like collaborating with like-minded software developers on various
